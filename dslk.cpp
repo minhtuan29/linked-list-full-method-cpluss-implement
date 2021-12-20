@@ -14,7 +14,7 @@ problem:
  LinkedList full methods:
  	- isEmpty()
 	- pushHead( newElemnt)
-    - pushBack( newElement)
+        - pushBack( newElement)
 	- insertAfter( index, newElement)
 	- insertBefore( index, newElement)
 	- freeAll()  -> delete all

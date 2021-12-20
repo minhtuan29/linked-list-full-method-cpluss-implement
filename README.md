@@ -28,4 +28,4 @@ problem:
 	- insertSort( newElement)  
 	- indexOf( elemnt)   
 
-[~Source~](https://github.com/minhtuan29/linked-list-full-methods-cplus-implement/blob/main/dslk.cpp)
+[Source](https://github.com/minhtuan29/linked-list-full-methods-cplus-implement/blob/main/dslk.cpp)

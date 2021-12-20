@@ -4,7 +4,7 @@ author: Tuan Hoang
    email: minhtuan592a@gmail.com  
    last fix date: 1/22/2019
      
-   MIT license (C) Coppyright TuanHoang on github
+   [MIT license](https://github.com/minhtuan29/linked-list-full-methods-cplus-implement/blob/main/LICENSE) (©) Coppyright TuanHoang on github
    
 problem:   
  According to computer architecture and operating system,  
@@ -27,3 +27,5 @@ problem:
 	- removeAt( index)  
 	- insertSort( newElement)  
 	- indexOf( elemnt)   
+
+[~Source~](https://github.com/minhtuan29/linked-list-full-methods-cplus-implement/blob/main/dslk.cpp)

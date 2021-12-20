@@ -26,6 +26,6 @@ problem:
 	- at( index)  
 	- removeAt( index)  
 	- insertSort( newElement)  
-	- indexOf( elemnt)   
+	- indexOf( elemnet)   
 
 [Source](https://github.com/minhtuan29/linked-list-full-methods-cplus-implement/blob/main/dslk.cpp)

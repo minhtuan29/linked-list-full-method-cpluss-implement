@@ -284,7 +284,7 @@ public:
 	}
 	
 
-	int at(int n)
+	T at(int n)
 	{ 
 		return nodeAt(n)->value;
 	}

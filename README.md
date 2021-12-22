@@ -3,8 +3,6 @@
 author: Tuan Hoang  
    email: minhtuan592a@gmail.com  
    last fix date: 1/22/2019
-     
-   [MIT license](https://github.com/minhtuan29/linked-list-full-methods-cplus-implement/blob/main/LICENSE) (©) Coppyright TuanHoang on github
    
 problem:   
  According to computer architecture and operating system,  
@@ -28,4 +26,7 @@ problem:
 	- insertSort( newElement)  
 	- indexOf( elemnet)   
 
-[Source here](https://github.com/minhtuan29/linked-list-full-methods-cplus-implement/blob/main/dslk.cpp)
+[Source here](https://github.com/minhtuan29/linked-list-full-methods-cplus-implement/blob/main/dslk.cpp)  
+
+ # License    
+   [MIT license](https://github.com/minhtuan29/linked-list-full-methods-cplus-implement/blob/main/LICENSE) (©) Coppyright TuanHoang on github

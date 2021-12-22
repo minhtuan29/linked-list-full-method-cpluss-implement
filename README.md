@@ -1,7 +1,6 @@
 #  LinkedList C++ implement
 
-author: Tuan Hoang  
-   email: minhtuan592a@gmail.com  
+author: Tuan Hoang
    last fix date: 1/22/2019
    
 problem:   

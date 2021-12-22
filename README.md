@@ -1,7 +1,7 @@
 #  LinkedList C++ implement
 
-author: Tuan Hoang
-   last fix date: 1/22/2019
+author: Tuan Hoang  
+last fix date: 1/22/2019
    
 problem:   
  According to computer architecture and operating system,  

@@ -22,7 +22,7 @@ problem:
 	- at( index)  
 	- removeAt( index)  
 	- insertSort( newElement)  
-	- indexOf( elemnet)   - constrain( element)
+	- indexOf( elemnet)   - constain( element)
 
 [Source here](https://github.com/minhtuan29/linked-list-full-methods-cplus-implement/blob/main/dslk.cpp)  
 

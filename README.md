@@ -4,7 +4,7 @@ Tuan Hoang , last fix date: 1/22/2019
    
 problem:   
  According to computer architecture and operating system,  
- an array data structure can not add or remote elements.  
+ an array data structure can not add or remove elements.  
  We need to generate a data structure is able to do that  
  
  LinkedList full methods:  

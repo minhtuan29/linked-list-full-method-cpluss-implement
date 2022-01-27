@@ -11,7 +11,7 @@ Problem:
         - pushBack( newElement)  
 	- insertAfter( index, newElement)  
 	- insertBefore( index, newElement)  
-	- freeAll()  -> delete all  
+	- freeAll()  -> delete all  - clear
 	- popHead()  
 	- popBack()  
 	- getBack()  
@@ -20,7 +20,7 @@ Problem:
 	- at( index)  
 	- removeAt( index)  
 	- insertSort( newElement)  
-	- indexOf( elemnet)   - constains( element)
+	- indexOf( elemnet)   ->  is_ constains( element)  - includes( element)
 
 [Source here](https://github.com/minhtuan29/linked-list-full-methods-cplus-implement/blob/main/dslk.cpp)  
 

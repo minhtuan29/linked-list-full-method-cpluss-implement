@@ -23,3 +23,5 @@ Problem:
 	- indexOf( elemnet)   - constains( element)
 
 [Source here](https://github.com/minhtuan29/linked-list-full-methods-cplus-implement/blob/main/dslk.cpp)  
+
+Lưu ý: thuật toán là tiên tiến nhất, thuật dựa theo nghiên cứu GS.TS Trần Đan Thư trường ĐH KHTN TP.HCM giáo trình Kỹ Thuật Lập Trình 2013. Project này đã hiệu chỉnh lại thuật để không bugs và cài đặt được lên C++, sau đó nâng cấp lên Generic

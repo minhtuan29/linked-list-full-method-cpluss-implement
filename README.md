@@ -1,7 +1,5 @@
 #  LinkedList C++ implement
 
-Tuan Hoang , last fix date: 1/22/2019
-   
 problem:   
  According to computer architecture and operating system,  
  an array data structure can not add or remove elements.  

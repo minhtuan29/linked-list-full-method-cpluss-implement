@@ -25,4 +25,4 @@ Problem:
 [Source here](https://github.com/minhtuan29/linked-list-full-methods-cplus-implement/blob/main/dslk.cpp)  
 
 # Lưu ý
-Thuật toán là tiên tiến nhất, thuật dựa theo nghiên cứu GS.TS Trần Đan Thư trường ĐH KHTN TP.HCM giáo trình Kỹ Thuật Lập Trình. Project này đã hiệu chỉnh lại thuật để không bugs ở các trường hợp ngoại lệ đặc biết và cài đặt được lên C++, sau đó nâng cấp lên Generic hoàn chỉnh. Vì thuật khá nặng và khó hiểu nên đã cleancode hết sức có thể
+Thuật toán là tiên tiến nhất, thuật dựa theo nghiên cứu GS.TS Trần Đan Thư trường ĐH KHTN TP.HCM giáo trình Kỹ Thuật Lập Trình. Project này đã hiệu chỉnh lại thuật để không bugs ở các trường hợp ngoại lệ đặc biệt và cài đặt được lên C++, sau đó nâng cấp lên Generic hoàn chỉnh. Vì thuật khá nặng và khó hiểu nên đã cleancode hết sức có thể

@@ -25,6 +25,3 @@ problem:
 	- indexOf( elemnet)   - constains( element)
 
 [Source here](https://github.com/minhtuan29/linked-list-full-methods-cplus-implement/blob/main/dslk.cpp)  
-
- # License    
-   [MIT license](https://github.com/minhtuan29/linked-list-full-methods-cplus-implement/blob/main/LICENSE) (©) Coppyright 2021 TuanHoang

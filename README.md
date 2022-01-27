@@ -1,6 +1,6 @@
 #  LinkedList C++ implement
 
-problem:   
+Problem:   
  According to computer architecture and operating system,  
  an array data structure can not add or remove elements.  
  We need to generate a data structure is able to do that  

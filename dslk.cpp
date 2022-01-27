@@ -2,9 +2,6 @@
 
 /* author: Tuan Hoang
    email: minhtuan592a@gmail.com
-   last fix date: 1/22/2019
-   
-   MIT license (C) Coppyright TuanHoang on github
    
 problem: 
  According to computer architecture and operating system,

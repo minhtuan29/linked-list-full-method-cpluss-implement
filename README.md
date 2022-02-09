@@ -11,7 +11,8 @@ Problem:
         - pushBack( newElement)  
 	- insertAfter( index, newElement)  
 	- insertBefore( index, newElement)  
-	- freeAll()  =>  delete all  - clear
+	- freeAll()  =>  delete all  
+	- clear
 	- popHead()  
 	- popBack()  
 	- getBack()  

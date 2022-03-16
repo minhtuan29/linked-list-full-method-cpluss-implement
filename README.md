@@ -23,5 +23,5 @@ Problem:
 	- indexOf( elemnet)   =>  is_ constains( element)  - includes( element)
 
 # Author
-HOANG MINH TUAN - N18DCPT061 PTIT HCM SOFTWAREENGINEER
+HOANG MINH TUAN - N18DCPT061 PTIT HCM SOFTWARE ENGINEER
 

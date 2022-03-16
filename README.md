@@ -22,4 +22,3 @@ Problem:
 	- insertSort( newElement)  
 	- indexOf( elemnet)   =>  is_ constains( element)  - includes( element)
 
-[Source here](https://github.com/minhtuan29/linked-list-full-methods-cplus-implement/blob/main/dslk.cpp)  

@@ -22,3 +22,6 @@ Problem:
 	- insertSort( newElement)  
 	- indexOf( elemnet)   =>  is_ constains( element)  - includes( element)
 
+# Author
+HOANG MINH TUAN - N18DCPT061 PTIT HCM SOFTWAREENGINEER
+

@@ -25,3 +25,6 @@ Problem:
 # Author
 HOANG MINH TUAN.
 
+| Data Structure          | Access    | Search    | Insertion | Deletion  | 
+| ----------------------- | :-------: | :-------: | :-------: | :-------: |
+| **Linked List**         | n         | n         | 1         | n         |   
